@@ -1,6 +1,129 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<style>
+		@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+		body {
+		font-family: 'Amatic SC', cursive;
+		margin:0;
+		text-shadow: 0 0 4px #FFFFFF;
+		font-size: 78px;
+		font-weight: bolder;
+		}
+		div {
+		border-bottom: 1px solid;
+		border-color: #bbb;
+		}
+		.background-div {
+		background: #666 url("IGKrUpE.jpg") no-repeat center center fixed;
+		background-size: cover;
+		opacity: 0.65;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		position: fixed;
+		z-index: -1;
+		}
+		.character {
+		position: relative;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		overflow-x: hidden;
+		overflow-y: visible;
+		margin: 1% 0 0 0;
+		width: 100%;
+		}
+		.icon {
+		float: left;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 10%;
+		}
+		.name {
+		float: left;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 60%;
+		}
+		.suicide {
+		float: left;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 15%;
+		font-size: .5em;
+		color: #00F;
+		text-shadow: 0 0 4px #42b3f4;
+		border-right: 1px solid;
+		border-color: #bbb;
+		padding: 0 .4%;
+		}
+		.death {
+		float: left;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 15%;
+		font-size: .5em;
+		color: #00F;
+		text-shadow: 0 0 4px #42b3f4;
+		padding: 0 .4%;
+		}
+		.header {
+		position: relative;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		overflow-x: hidden;
+		overflow-y: visible;
+		margin: 1% 0 0 0;
+		width: 100%;
+		border-bottom: 1px solid #000;
+		}
+		.header > .icon {
+		border-bottom: 1px solid #000;
+		text-align: center;
+		}
+		.header > .name {
+		border-bottom: 1px solid #000;
+		text-align: center;
+		}
+		.header > .suicide {
+		border-bottom: 1px solid #000;
+		text-align: center;
+		text-shadow: 0 0 4px #FFFFFF;
+		color: #000;
+		}
+		.header > .death {
+		border-bottom: 1px solid #000;
+		text-align: center;
+		text-shadow: 0 0 4px #FFFFFF;
+		color: #000;
+		}
+		.dumb {
+		display: inline-block;
+		vertical-align: text-bottom;
+		}
+		.dead > .icon {
+		background: url("skull-44535_960_720.png") no-repeat;
+		background-size: 100%;
+		}
+		.dead > .name {
+		text-decoration: line-through;
+		}
+		.dead > .suicide {
+		color: #F00;
+		text-shadow: 0 0 4px #ccc;
+		}
+		.dead > .death {
+		color: #0F0;
+		text-shadow: 0 0 4px #ccc;
+		}
+		</style>
 	</head>
 	<body>
 		<div class='background-div'></div>
