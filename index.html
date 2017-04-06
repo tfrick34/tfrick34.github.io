@@ -124,10 +124,19 @@
 		color: #0F0;
 		text-shadow: 0 0 4px #ccc;
 		}
+		#bg {
+		position: fixed;
+		top: 0;
+		left: 0;
+		opacity: 0.65;
+		/* Preserve aspet ratio */
+		min-width: 100%;
+		min-height: 100%;
+		}
 		</style>
 	</head>
 	<body>
-		<div class='background-div'></div>
+		<img src="http://i.imgur.com/IGKrUpE.jpg" id="bg" alt="">
 		<div class='characters'>
 			<div class='header'>
 				<div class='icon'></div>
