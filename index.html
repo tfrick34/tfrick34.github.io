@@ -9,8 +9,6 @@
 		font-size: 78px;
 		}
 		div {
-		border-bottom: 1px solid;
-		border-color: #bbb;
 		}
 		.characters{
 			height: 100%;
@@ -23,8 +21,11 @@
 		display: flex;
 		overflow-x: hidden;
 		overflow-y: visible;
-		margin: 1% 0 0 0;
+		margin: 0;
+		padding: 1% 0;
 		width: 100%;
+		border-bottom: 1px solid;
+		border-color: #bbb;
 		}
 		.icon {
 		float: left;
@@ -84,11 +85,13 @@
 		.header > .suicide {
 		border-bottom: 1px solid #000;
 		text-align: center;
+		font-size: 1em;
 		color: #000;
 		}
 		.header > .death {
 		border-bottom: 1px solid #000;
 		text-align: center;
+		font-size: 1em;
 		color: #000;
 		}
 		.dumb {
@@ -125,8 +128,8 @@
 			<div class='header'>
 				<div class='icon'></div>
 				<div class='name'>Name</div>
-				<div class='suicide'><span class='dumb'>Suicide</span></div>
-				<div class='death'><span class='dumb'>Death</span></div>
+				<div class='suicide'>S</div>
+				<div class='death'>D</div>
 			</div>
 			<div class='character'>
 				<div class='icon'></div>
