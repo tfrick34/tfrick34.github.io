@@ -121,6 +121,34 @@
 		min-width: 100%;
 		min-height: 100%;
 		}
+		@media only screen and (min-width: 992px) {
+			body {
+				font-size: 39px;
+				font-weight: bold;
+			}
+			.characters {
+				overflow-y: visible;
+				height: auto;
+			}
+			.character {
+				width: 60%;
+				margin-left: 20%;
+			}
+			.header {
+				width: 60%;
+				margin-left: 20%;
+				font-size: 2em;
+			}
+			.death {
+				font-size: .8em;
+			}
+			.suicide {
+				font-size: .8em;
+			}
+			.dead > .icon {
+				background-size: 35%;
+			}
+		}
 		</style>
 	</head>
 	<body>
@@ -332,6 +360,12 @@
 			</div>
 			<div class='character'>
 				<div class='icon'></div>
+				<div class='name'>Robert Glover</div>
+				<div class='suicide'></div>
+				<div class='death'></div>
+			</div>
+			<div class='character'>
+				<div class='icon'></div>
 				<div class='name'>Robin Arryn</div>
 				<div class='suicide'></div>
 				<div class='death'></div>
@@ -393,6 +427,12 @@
 			<div class='character'>
 				<div class='icon'></div>
 				<div class='name'>Yara Greyjoy</div>
+				<div class='suicide'></div>
+				<div class='death'></div>
+			</div>
+			<div class='character'>
+				<div class='icon'></div>
+				<div class='name'>Yohn Royce</div>
 				<div class='suicide'></div>
 				<div class='death'></div>
 			</div>
