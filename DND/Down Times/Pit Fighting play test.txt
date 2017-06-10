@@ -1,0 +1,9 @@
+Loss
+	Crowd Favor: -1
+
+Loss
+	Crowd Favor: -2
+
+Win
+	Crowd Favor: 0
+	+50g

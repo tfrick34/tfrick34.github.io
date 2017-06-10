@@ -1,0 +1,10 @@
+initiate
+28
+novice
+step 1
+23
+apprentice
+18
+12
+6
+
