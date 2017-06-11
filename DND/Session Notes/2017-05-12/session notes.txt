@@ -32,4 +32,4 @@ arcane etin
 ______
 10,350 XP
 
-(30000 to level 6)
+2588
