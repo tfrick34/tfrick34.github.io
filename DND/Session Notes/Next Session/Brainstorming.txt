@@ -1,10 +1,8 @@
-update colin's beasts (need CR 3 beast to replace winter wolf)
+update colin's beasts (chose giant scorpion)
 
 update mansoon's traits based on level 6 (basically check all player cards)
 
 Create ultor's level 8 just in case.
-
-Utlro's Keep Quest 
 
 
 
@@ -38,6 +36,7 @@ Clarify Keeper Orb rolls:
 		NOT Wizard souls.
 	Coloneous' true answer to any question
 	Ultos: fight next MONSTROSITY or group of MONSTROSITIES
+Explain "Attunement"
 
 
 
@@ -77,14 +76,24 @@ Pangold's Keep
 		Relays warning from the will: No one has been there in many years.  Possibly inhabitted.
 
 		Keep is located ________________. (probably should be close to heartland)
-		Inhabited by a _____________.
+		Inhabited by a Tanabus (giant fly).
 		Gentlemen's Quarters:
 			Room only opens to Ultros.
 			Iron reinforced door. with no handle.  button appears to ultros.
 			Inside: 
-				rare Magic item for Ultros __________.
-				rare magic weapon for Coloneous _________.
-				wonderous item _________.
+				1,100 cp
+				12k sp
+				13.6k gold
+				1,630 platinum
+				2 Moonstone
+				3 Carnelian
+				7 Chrysoprase 
+				6 Topaz
+				4 Blue Spinel
+				Potion of Supreme Healing
+				Potion of Invisibility
+				Potion of Speed
+				Staff of the Python
 
 		Probably describe the rest of the keep.
 
