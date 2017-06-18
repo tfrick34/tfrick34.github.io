@@ -93,7 +93,8 @@ Pangold's Keep
 				Potion of Supreme Healing
 				Potion of Invisibility
 				Potion of Speed
-				Staff of the Python
+				Helm of Telepathy
+				Staff of the Woodlands
 
 		Probably describe the rest of the keep.
 
