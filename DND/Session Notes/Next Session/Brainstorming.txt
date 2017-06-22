@@ -4,7 +4,7 @@ update mansoon's traits based on level 6 (basically check all player cards)
 
 Create ultor's level 8 just in case.
 
-
+Write coloneous' downtime
 
 Write Colisseum Sponsers 
 
@@ -50,7 +50,7 @@ Explain "Attunement"
 	Rexxar: Pot Fighting
 	Ultros: Sorcerer's Guild
 	Mansoon: Thieves Guild
-	Coloneous: 
+	Coloneous: Build a farm
 
 
 
@@ -113,3 +113,13 @@ Phennex's Master Plan
 		Phennex offers Mansoon a job either way.  Exclaims it's an easy job with a high pay-off.
 			Job _______.
 			The job is a setup.  Phennex has alerted the Guard that Mansoon will be doing this.
+
+Mike Bitch
+	The owner of We Buy and Sell Blacks offers to give you a better price on your gems if you take out his competitor, Aurus Gems.
+	To do so, players can:
+		Uncover the secret lives of the hired help, Richard and Gaylord Jammer. By doing so, they agree to help the group write up a plan to rob the store.
+			The two agree to help since they are known as the 'toughest mercenaries in the Apex disctrict'
+			*** LOOK INTO CHASES ***
+		Kill the owner and insure the store is shut down.
+			Possibly look into a will?
+		Other options that the players think of. Has to be good.
