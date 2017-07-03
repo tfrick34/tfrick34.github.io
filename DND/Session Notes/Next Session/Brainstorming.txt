@@ -76,11 +76,15 @@ Mansoon's rare magic weapons: Exemplarly and Jealousy
 Stromgarde Keep
 	Ultros gets a letter from Melvin.
 		He just finished litigation on a will.  Stromgarde Keep has been bequeathed to him.  (Yuri Hammon passed away)
-		Describe keep as deed knows it. (land, estimated value, etc) ______________.
+		Ultros must go lay claim to the keep.
+		Describe keep as deed knows it. 
+			'Says here it's worth quite a bit.'
+			'Lay claim to the keep then i'll point you in the right direction for land ownings'
+			- UNKNOWN: 19,200 acres south of the keep.
 		Not sure how he got the keep, but doesn't seem to care.
 		Relays warning from the will: No one has been there in many years.  Possibly inhabitted.
 
-		Keep is located ________________. (probably should be close to heartland)
+		Keep is located about 15 miles northwest of Heartland in Pangold's Heights. (probably should be close to heartland)
 		Inhabited by a Tanabus (giant fly).
 		Gentlemen's Quarters:
 			Room only opens to Ultros.
