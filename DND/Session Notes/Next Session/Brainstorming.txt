@@ -19,14 +19,6 @@ Getting rid of Rexxar's Madness:
 
 
 
-12
-11
-14
-14
-11
-15
-
-
 
 
 
@@ -121,8 +113,9 @@ Phennex's Master Plan
 			A guild member is hiding and listening per Phennex's request. 
 			If Mansoon replies with 'yes' or acknowledges in any way that he is in the Lawless Many, he is outed for breaking the code. 
 		Phennex offers Mansoon a job either way.  Exclaims it's an easy job with a high pay-off.
-			Job _______.
-			The job is a setup.  Phennex has alerted the Guard that Mansoon will be doing this.
+			Job Free _______. On a prison transport. Former Thieves Guild member who is a high ranking slaver.
+			The guild is extremely upset by this, as they had a plan to assasinate him after the transport.
+			The job is a setup.  Phennex has alerted the Guard that Mansoon will be doing this. They come looking for Mansoon, which alerts the guild that Mansoon comitted the betrayel.
 
 Mike Bitch
 	The owner of We Buy and Sell Blacks offers to give you a better price on your gems if you take out his competitor, Aurus Gems.
