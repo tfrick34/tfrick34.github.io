@@ -40,26 +40,31 @@ Hard job failed, +10 wanted, -2 renowned
 (wanted level is 32)
 
 ********** Session ***************
-Kills Bone Devil, Rexxar gets the last hit
+Kills Bone Devil, Rexxar gets the last hit 
+(8400)
 
 Rexxar gets into a fight with a gaurd at Mortred's armory.  
 	Mansoon, Ultros, and Rexxar are banned from Mortred's Armory
 Gaurd notices Mansoon (based on wanted level)
 
-Group frees deadeye with sleep spell.
+Group frees deadeye with sleep spell. 
+(1000)
 
 Mansoon confesses to the guild about freeing deadeye - gets kicked out of the guild
 
-mansoon is payed the fee.
+mansoon is payed the fee. 10kg
 
 mansoon wants to be a blacksmith
 
 
-they pay the bridge troll
+they pay the bridge troll 
+(1000)
 
 they let the centaur escort them
+(1000)
 
 killed tanabus
+(8400)
 
 coloneous gets staff
 
@@ -68,9 +73,15 @@ ultors gets helm
 
 horde fight.
 	ultros burns down forest
+	(2000)
 	colin uses thorns on door
+	(1000)
 
 	balto fixes catapult
+	(1000)
+
+	100 Orcs (10,000)
+	
 
 	from the battle looting:
 		10 shorts swords
