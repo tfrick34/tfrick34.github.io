@@ -80,7 +80,11 @@ horde fight.
 	balto fixes catapult
 	(1000)
 
-	100 Orcs (10,000)
+	5 Orcs (5,000)
+	1 Orc Leader (2,300)
+	20 Orog (4,000)
+	6 orc riders (1,200)
+	x trolls ()
 	
 
 	from the battle looting:
