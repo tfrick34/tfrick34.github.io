@@ -14,10 +14,11 @@ Week 3:
 38 yield
 Gets a tax collector adversary
 +38 gold
+(100)
 
 
 **** Rexxar ****
-Wins tournament first week, +260g
+Wins tournament first week, +260g (300)
 
 Loses week 2
 
@@ -32,7 +33,7 @@ Nothing happens
 25 days
 	failed medium job. -2 renown +5 wanted
 20
-15 days +3 gold, +1 renown, +1 wanted level
+15 days +3 gold, +1 renown, +1 wanted level (100xp)
 13
 8 failed hard job. +10 wanted, -2 renowned
 7
@@ -80,11 +81,11 @@ horde fight.
 	balto fixes catapult
 	(1000)
 
-	5 Orcs (5,000)
+	50 Orcs (5,000)
 	1 Orc Leader (2,300)
-	20 Orog (4,000)
-	6 orc riders (1,200)
-	x trolls ()
+	12 Orog (2,400)
+	3 orc riders (600)
+	4 trolls (7,200)
 	
 
 	from the battle looting:
@@ -94,3 +95,7 @@ horde fight.
 
 
 4 3 eliese
+
+
+
+Group XP: 8260pp
