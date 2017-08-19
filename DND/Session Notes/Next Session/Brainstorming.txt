@@ -8,7 +8,7 @@ Ultros' Downtime was rebalanced.
 
 
 ************ Opening ************
-Rexxar is now Rexxar of the Light
+Rexxar is now 
 	His killing blow to the Bone Devil was seen by many and he is now the Devil Slayer known as Rexxar of the Light.
 
 Ultros now owns a sizable keep with a large portion of land, known as Lord Ultros.
@@ -16,7 +16,7 @@ Ultros now owns a sizable keep with a large portion of land, known as Lord Ultro
 The lower district has become increasingly volitile with riots happening frequently by the empowered and armed poor.  
 Security in the district has tightened up.  Certain parties are very unhappy about this.
 
-
+Talking with the locals, you come to realize that the weather of the Heartland region has been uncharactistically stormy this summer.
 
 
 
@@ -25,11 +25,20 @@ Security in the district has tightened up.  Certain parties are very unhappy abo
 	* Phennex has convinced the lower district to follow Mansoon and are actively chanting his name.
 		- The Thieves Guild now wants to kill him.
 		- The Gaurds are on the lookout for him.
+			~ Perhaps group sees a wanted poster?
 	* Phennex is attempting to split the group by leaking the details of the prison break mission.  Claims that mansoon was payed 20k and has 10k hiding out.
 	* Phennex has convinced the church of the light that Mansoon summoned the devil.
 	* Phennex turns Mansoon's blacksmith against him.
 
+
 ****** Colliseum Sponsors ******
 	
-	* New player knows a colliseum sponsor: Batiatus 
+	* Rexxar gets noticed in the tournament by Batiatus. Batiatus sends a letter.
 		- Batiatus agrees to sponsor Rexxar only if they team wins his game. (Dota game)
+
+
+***** The Church of the Light ******
+	
+	* Want Rexxar to participate in their Cleansed by Light ritual.  
+		- Takes a full day.
+		- If completed: Rexxar is cured of his alignment swap, gains "of the Light" title, gains "Boots of Levitation"
