@@ -42,3 +42,22 @@ Talking with the locals, you come to realize that the weather of the Heartland r
 	* Want Rexxar to participate in their Cleansed by Light ritual.  
 		- Takes a full day.
 		- If completed: Rexxar is cured of his alignment swap, gains "of the Light" title, gains "Boots of Levitation"
+
+
+***** Dota Trial ******
+
+	Enemy Team:
+		1 Evoker (VG2M 214)
+		2 Gladiators (MM 346)
+		1 Assasin (MM 343)
+		1 War Priets (VG2M 218)
+
+	First to kill the enemy team's criminal wins.
+		Criminal: 
+			AC 13
+			HP 35
+
+	Rules: Contestants leaving the arena are disqualified.  
+	Players may only use weapons, no potions, traps, etc.
+
+	Winners: 2kg each.
