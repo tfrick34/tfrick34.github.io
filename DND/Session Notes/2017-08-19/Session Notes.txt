@@ -1,10 +1,10 @@
 Rexxar's downtime.
-Wins 3 rounds, gets 260g
+Wins 3 rounds, gets 260g (300 xp R)
 
-Loses in second round
+Loses in second round (100 xp R)
 
-Wins 3 rounds, get 260g. 
-	Defeats a hated champion, gains +5 crowd favor.
+Wins 3 rounds, get 260g. (300 xp R)
+	Defeats a hated champion, gains +5 crowd favor. (100 xp R)
 
 
 Ultos' downtime.
@@ -17,14 +17,14 @@ loss all, no progress.
 __________________________________________________________________________________________
 
 Rexxar and Ultros meet up in the bar and talk a bit.
-They meet a woman and concinve them to buy them a drink.
+They meet a woman and concinve her to buy them a drink. (100 xp R,U)
 they fail to convince her to join mansoon's tribe.
 
 rexxar flirts with an elderly woman in the streets while he asks about the shops.
 
 
-Rexxar makes a deal with Gaston on some potions. he gets 5 greater healing, 1 invulerability, 1 resistance.
-Fails slight of hand check when slipping Gaston the gold.
+Rexxar makes a deal with Gaston on some potions. he gets 5 greater healing, 1 invulerability, 1 resistance. (500 xp R)
+**** Fails slight of hand check when slipping Gaston the gold.
 
 Melvin let's ultros that there is a 1k bounty on Mansoons head.
 Melvin mentions the weather is weird.
@@ -35,7 +35,7 @@ Utlros leaves on a sour note with Ultors.
 
 
 Utlros talks to the bar keep at brysons (poor district)
-finds out that mansoon "started the revolt"
+finds out that mansoon "started the revolt" (100 XP U)
 
 Rexxar participates in the church of the light's ritual with Birdperson.
 Gets his alignment changed back, gets "of the light" title, gets boots of levitation.
@@ -47,35 +47,36 @@ the group heads towards the poor district.
 they talk to some gaurds, make it past without issue.
 they head into a poor camp and heal an old man.
 
+Ultros splits with the group, does not enter the camp.
 Phennex, in disguise, outs Mansoon.  the crowd goes crazy.
-rexxar throws 500g to cause more chaos and the group sneaks out.
+rexxar throws 500g to cause more chaos and the group sneaks out. (1000 XP R,BP,B,M)
 
 rexxar receives the letter from Battitous.
 The group heads to battitous' houes.
-They negotiate a new price, 6k to ultros, 2k to balto, 1k to BP, 2k to rexxar.
+They negotiate a new price, 6k to ultros, 2k to balto, 1k to BP, 2k to rexxar. (100 XP R,U,BP,B,M)
 
 utlros attempts to gain information on storm, fails.
 
-team heads to dooneys in the aorta district and aks about the game they signed up for.
+team heads to dooneys in the aorta district and aks about the game they signed up for. (1000 XP R,U,BP,B,M)
 three core members, invoker
 omnicious knight
 riki maru
 
-mansoon buys a mask
+mansoon buys a mask (500 XP M)
 mansoon buys 4 alch fire
 rexxar asks lucas waldon about Seloneous (another collesuem trainer)
 
 group heads over to Seloneous' house.
-group lies to the butler and says they have an appointment, ultros passes test (butler's name geoffrey)
-group chats with Seloneous', gets some insight, works out a sponsorship with Seloneous to sponsor rexxar if they win
+group lies to the butler and says they have an appointment, ultros passes test (butler's name geoffrey) (100 XP R,U,BP,B,M)
+group chats with Seloneous', gets some insight, works out a sponsorship with Seloneous to sponsor rexxar if they win (500 XP R,U,BP,B,M)
 
 group goes in as as.
 
 battle:
-bp kills evoker pretty much out right.
+bp kills evoker pretty much out right. 
 
-ultros gets an improbably sleep roll and sleeps assasin
-BP gets the killing blow on criminal
+ultros gets an improbably sleep roll and sleeps assasin (1000 xp)
+BP gets the killing blow on criminal (5000 xp R,U,BP,B,M)
 
 ultros: 6k
 balto: 2k
@@ -87,3 +88,13 @@ Group agrees BP will hang out at the keep as custodian.
 
 
 3 9 Eleint
+
+
+
+Rexxar: 3600
+Ultros: 2400
+Mansoon: 2700
+Birdperson: 2200
+Balto: 2200
+
+(+ 1680)
