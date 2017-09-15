@@ -1,6 +1,126 @@
-Write Scorched Page meeting about lower district
-Write Melvin's research on the orcish horde
-Write what happens to Gaston
-Write investigation into Mansoon progression.
-		Rexxar and Birdperson are now known associates.
-Write slavers stuff again.
+
+
+
+
+
+
+
+
+________________________________________________________________________
+
+**** Transition
+	*** Say to group:
+		- The lower district is in open revolt.
+		- There have been no changes in the weather pattern.  This is becoming more uncharacteristic of the region each day as the summer is coming to an end and autumn is approaching.
+		- Birdperson is feeling uncomfortable about the general population's attitude towards him.
+		- Ultros has a meeting scheduled with The Scorched Page today.
+		- Before Coloneous last leaves his farm he is approached by the tax collector Frederick Foyer.
+
+
+
+
+**** The Tax Collector.
+	
+	-- The Tax Collector Frederick Foyer offers Coloneous a deal.
+		~ Coloneous can avoid the extensive land and farm taxes by paying him one thousand gold a month.
+			= Agree, minus one thousand gold.
+			= Disagree, Frederick Foyer enters his property to the tax collection agency.  They will ultimately find out he does not own the land.
+
+
+
+
+**** The lower district.
+	((Investigation into Mansoon is progressing.))
+	((From the previous incident in the lower district where Mansoon was seen, Birdperson is now a person of interest.))
+	((Anyone seen with Birdperson will also be a person of interest.))
+	((The revolt is becoming annoyed with Mansoon's abscence.))
+
+	-- The Gaurd have pulled out of the district. They setup road blocks on all of the entrances to the district.
+
+	-- The revolt has designated a leader in Mansoon's abscence: Henry Smithe.
+
+
+
+
+
+**** The Scored Page Meets.
+	((Everyone besides Henry Foresight wants Ronald Harsh to be elected special Chancelor.))
+	((Ronald Harsh is just that, harsh.  He is the political equivelant to Donald Trump. Also, he's secretly associated with the Slavers.))
+	((Vance Killjoy is tipped off by Phennex that Ultros knows Mansoon))
+	
+	-- Members:
+		~ (Archon) Sylvan Montgomery
+			= Level 18 Female Dragonborn Sorcerer 
+
+		~ (Master) Vance Killjoy
+			= Level 15  Male Human Sorcerer
+
+		~ (Master) Rut Firespeak
+			= Level 12 Male Orcish Sorcerer
+
+		~ (Adept) Henry Foresight
+			= Level 12 Male Human Sorcerer
+
+		~ (Adept) Anton Wirewood
+			= Level 9 Male Dragonborn
+
+		~ (Adept) Jessica Rustle 
+			= Level 8 Female Human
+
+		~ (Adept) Yardly Adams
+			= Level 8 Male Human
+
+	-- The goal of the meeting is to get their member of the senate, Ronald Harsh, elected to a special Chancelor position.
+
+	-- Vance Killjoy suggests that Ultros turns Mansoon over to Ronald, identifying him as the leading force to combat the uprising.
+
+	-- Henry Foresight questions how we know Mansoon is truely responsible and attempts to cast doubts on Ronald's character.
+
+
+
+
+
+**** Slavers of Heartland City.
+	((The Heartland City HQ for the slavers is right on the outskirts of town.))
+	((It's not exactly well gaurded considering the slavers haven't had much resistance in the region.))
+	((If the players go at night there is no gaurd and everyone is asleep.))
+
+	-- Members:
+		~ (Transaction Coordinator) Peter Griffon
+			= Slaver Captain
+
+		~ (Heartland City Overseer) Horros Screamskull
+			= Level X X
+
+		~ (Assistant) Pyth (pi-th) Luwin
+			= Commoner. 
+			= Former Accountant.
+
+		~ Tubs
+			= Slaver Captain (Modified, double HP)
+
+	-- During combat, tubs will call in backup every round as long as he's conscious to sound the horn.
+
+
+
+
+
+
+**** Meeting with Melvin.
+	((Melvin is less likely to help based on last session's interaction))
+	((Melvin is also a little suspicious of Utlros based on the investigation into Mansoon.))
+
+		-- Melvin has info on the Orcish Horde
+			((There is currently no reward for killing the Giant))
+				~ A frost Giant is taking up residence in the ______ mountains for the upcoming winter.
+				~ He has gained control of the horde and was attempting to use them to take the keep and surrounding territory.
+				~ The horde is no longer a threat, but the Giant may be.
+
+		-- Melvin offers an agreement based on advice from Peter. Turn in Mansoon and he'll help with election of Ronald.
+
+
+
+
+**** Gaston has been fired.
+	((If/When the group goes back to Waldmart, mention that Gaston is nowhere to be found.))
+	((If found, Gaston wants to seek revenge on the Waldons.))
