@@ -7,6 +7,14 @@
 
 
 ________________________________________________________________________
+(((TRIGGERS)))
+	-- Next time Balto is alone, he is approached by Phennex.  He is cursed by Phennex.
+		~ Fraility. 
+			= You take double the amount of physical damage.
+			= You have disadvantage on all saving throws.	
+	-- Next time the group goes more than a days walk from Heartland they cross No-Mans-Land.
+
+
 
 **** Transition
 	*** Say to group:
@@ -55,7 +63,7 @@ ________________________________________________________________________
 		~ (Master) Vance Killjoy
 			= Level 15  Male Human Sorcerer
 
-		~ (Master) Rut Firespeak
+		~ (Master) Grom Firespeak
 			= Level 12 Male Orcish Sorcerer
 
 		~ (Adept) Henry Foresight
@@ -99,6 +107,8 @@ ________________________________________________________________________
 		~ Tubs
 			= Slaver Captain (Modified, double HP)
 
+		~ Two Thugs
+
 	-- During combat, tubs will call in backup every round as long as he's conscious to sound the horn.
 
 
@@ -112,7 +122,7 @@ ________________________________________________________________________
 
 		-- Melvin has info on the Orcish Horde
 			((There is currently no reward for killing the Giant))
-				~ A frost Giant is taking up residence in the ______ mountains for the upcoming winter.
+				~ A frost Giant is taking up residence in Pangold's Heights mountains for the upcoming winter.
 				~ He has gained control of the horde and was attempting to use them to take the keep and surrounding territory.
 				~ The horde is no longer a threat, but the Giant may be.
 
@@ -124,3 +134,25 @@ ________________________________________________________________________
 **** Gaston has been fired.
 	((If/When the group goes back to Waldmart, mention that Gaston is nowhere to be found.))
 	((If found, Gaston wants to seek revenge on the Waldons.))
+
+
+
+
+**** No-Mans-Land
+	((This is a wild life preserve for dinosaurs.))
+	((It's run and protected by Durian.))
+	((Total area: 15 sq miles))
+
+		-- As the players approach, they see a well-maintained solid wooden fence.
+			~ The fence is built out of solid trunks an average of fifteen feet high.
+			~ There is no gate in sight.
+
+		-- Inside:
+			1x Tyrannosaurus Rex
+			3x Triceratops
+			2x Allosaurus
+			5x Ankylosaurus
+			3x Quetzalcoatlus
+			1x Plesiosaurus
+			10x Pteranodon
+
