@@ -78,6 +78,9 @@ ________________________________________________________________________
 		~ (Adept) Yardly Adams
 			= Level 8 Male Human
 
+		~ (Initiate) Julie Nottingham
+			= Phennex
+
 	-- The goal of the meeting is to get their member of the senate, Ronald Harsh, elected to a special Chancelor position.
 
 	-- Vance Killjoy suggests that Ultros turns Mansoon over to Ronald, identifying him as the leading force to combat the uprising.
