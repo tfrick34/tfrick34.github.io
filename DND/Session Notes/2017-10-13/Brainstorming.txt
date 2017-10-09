@@ -1,0 +1,21 @@
+- Figure out what happens with the tax collector and Coloneou's farm
+	~ Needs to pay for the land.
+- Plant a "Good hearted person" for Ultros.  
+- Figure out what happens with Ultros and the Scorched Page.
+- Balto is invited to the Church of the Light's ceremony. 
+	~ If he accepts, is also Balto of the Light.
+- Fix magic items.  (Get rarities of colin's new rings, add attunements to all magic items.)
+- Research rare magic shield stats.
+
+
+______________________________________________________________________________
+
+(((TRIGGERS)))
+
+
+
+**** Church of the Light
+	-- Want Balto to participate in their Cleansed by Light ritual.  
+		~ Takes a full day.
+		~ If completed: Balto gains "of the Light" title, given "Light Gaurdian"
+			= +2 AC. If this shield is equipped when a target within ten feet of the bearer misses, you may roll a twenty sided die.  On a 20, the shield emmits a blinding light in a ten foot cone. The target who missed their attack must be within this cone.  All affected targets who are looking at the shield bearer must make a DC 14 constitution saving throw or be blinded until after their next turn.
