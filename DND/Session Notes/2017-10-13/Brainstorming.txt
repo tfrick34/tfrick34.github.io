@@ -4,7 +4,6 @@
 - Figure out what happens with Ultros and the Scorched Page.
 - Fix magic items.  (Get rarities of colin's new rings, add attunements to all magic items.)
 - Research rare magic shield stats.
-- Slavers
 
 
 ______________________________________________________________________________
@@ -61,5 +60,41 @@ ______________________________________________________________________________
 
 
 **** Uniting the Guard.
+	((Players cannot get a meeting with the Dragonclaw until they rid Heartland City of the Slavers of Heartland City))
 	-- The Guard has been split to "The Old Guard" and "The Guard".
-		~ The Old Guard is made up of members
+		~ The Old Guard is made up of former members of The Guard.  They still stand to protect the realm, but no longer recognize the legitimacy of the current king.
+			= Made up of about two thousand members.
+			= Leader is General Cameron Dragonclaw.
+		~ The Guard are still loyal to the King. Most members recognize that the king does not have the kingdom's best interest at heart but are bound to duty by their honor.
+
+
+**** No-Mans-Land
+	((If the team goes southwest, northwest past Pangold's Peak, or west (off the road)))
+	((This is a wild life preserve for dinosaurs.))
+	((It's run and protected by Durian.))
+	((Total area: 15 sq miles))
+
+		-- As the players approach, they see a well-maintained solid wooden fence.
+			~ The fence is built out of solid trunks an average of fifteen feet high.
+			~ There is no gate in sight.
+
+		-- Inside:
+			1x Tyrannosaurus Rex
+			3x Triceratops
+			2x Allosaurus
+			5x Ankylosaurus
+			3x Quetzalcoatlus
+			1x Plesiosaurus
+			10x Pteranodon
+
+		-- Once in, they are immediately approached by a very large man, describe him:
+
+			"You are approached by a seemingly larger-than-life man.  He is well over eight feet tall with the wingspan of a Giant Eagle. The party is immediately mesmorized by his magnificant beard. Distracted by said beard, the party almost doesn't notice his massive Greataxe."
+
+		-- Durian asks the group these questions:
+
+			1. Have you ever killed a beast. (Why)
+			2. Have you ever saved a beast. (Why)
+			3. What is man's purpose.
+
+		-- If the team passes this test, they are welcomed to his land.  If not, they are attacked.
