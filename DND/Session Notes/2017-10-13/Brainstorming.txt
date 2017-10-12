@@ -29,3 +29,37 @@ ______________________________________________________________________________
 
 
 
+**** Slavers of Heartland City.
+	((The Heartland City HQ for the slavers is right on the outskirts of town.))
+	((It's not exactly well gaurded considering the slavers haven't had much resistance in the region.))
+	((If the players go at night there is no gaurd and everyone is asleep.))
+
+	-- GETTING THERE.
+		~ Players can basically ask anyone where the slavers HQ is.
+			= Commoners will say "it's about that way.
+			= Guard will give you an exact location.
+
+	-- Members:
+		~ (Transaction Coordinator) Peter Griffon
+			= Slaver Captain
+
+		~ (Heartland City Overseer) Horros Screamskull
+			= Level X X
+
+		~ (Assistant) Pyth (pi-th) Luwin
+			= Commoner. 
+			= Former Accountant.
+
+		~ Tubs
+			= Slaver Captain (Modified, double HP)
+
+		~ Two Thugs
+
+	-- COMBAT
+		~ Once combat starts, Peter orders a slaver captain to run off. If he succesfully gets away, Ronald Harsh is notified that the group eliminated the slavers.
+		~ During combat, tubs will call in backup every round as long as he's conscious to sound the horn.
+
+
+**** Uniting the Guard.
+	-- The Guard has been split to "The Old Guard" and "The Guard".
+		~ The Old Guard is made up of members
