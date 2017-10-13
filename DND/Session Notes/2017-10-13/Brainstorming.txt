@@ -1,9 +1,9 @@
-- Figure out what happens with the tax collector and Coloneou's farm
-	~ Needs to pay for the land.
-- Plant a "Good hearted person" for Ultros.  
-- Figure out what happens with Ultros and the Scorched Page.
 - Fix magic items.  (Get rarities of colin's new rings, add attunements to all magic items.)
 - Research rare magic shield stats.
+- Figure out how much gold weighs.
+- Fix player cards for Rexxar / Mansoon
+- Come up with random encounter list.
+- Figure out where the old guard are headquartered based on map.
 
 
 ______________________________________________________________________________
@@ -98,3 +98,34 @@ ______________________________________________________________________________
 			3. What is man's purpose.
 
 		-- If the team passes this test, they are welcomed to his land.  If not, they are attacked.
+
+
+**** Property Value
+	((Bernard is a slaver sympathizer.  He is run by greed and gets a fair wage from the organization.))
+
+	-- Coloneous is summoned by Bernard Yuppington III, a city magistrate who oversees real estate.  He has been tipped off by Frederick Foyer.
+	-- Coloneous is given a choice, either pay 10k gold plus monthly land taxes or do a "small favor." Kill Melvin Atwater.
+	-- For the favor, say:
+		"I've heard of your strength and heroism;  and I don't care much about the latter.  I need a small favor and you can call this farm yours. There is a certain Magistrate I want to 'go away.'"
+
+
+**** Join or Help
+	
+	-- Grom reaches out.
+	-- The Scorched Page gives Utlros an invitation: Join back up as an Apprentice or help out as a political ally.
+
+
+**** Utlro's "Helpers"
+
+	-- Mary-Jane Blidge
+		((Incorrect choice))
+		~
+
+	-- Bouncing Becky
+		((Incorrect choice))
+
+	-- Bubbles
+		((Correct Choice))
+
+	-- Alexsis Texas
+		((Incorrect Choice))
