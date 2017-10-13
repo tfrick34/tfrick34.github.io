@@ -1,7 +1,3 @@
-- Fix magic items.  (Get rarities of colin's new rings, add attunements to all magic items.)
-- Research rare magic shield stats.
-- Figure out how much gold weighs.
-- Fix player cards for Rexxar / Mansoon
 - Come up with random encounter list.
 - Figure out where the old guard are headquartered based on map.
 
