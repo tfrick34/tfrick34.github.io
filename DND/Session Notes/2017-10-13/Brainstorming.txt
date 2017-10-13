@@ -7,6 +7,9 @@
 
 
 ______________________________________________________________________________
+**** Pre-session
+	-- I'm going to start resolving some rolls myself.
+
 
 (((TRIGGERS)))
 
@@ -17,7 +20,17 @@ ______________________________________________________________________________
 	-- The town has mostly returned to normal.  The uprising in the lower district has calmed. Relations between the Heart Gaurd and the poor have been mended and most of the poor have willingly handed over their weapons.
 	-- The general public has mixed feelings about the group, although a slight majority is positive. The upper district is generally upset about the happenings over the last couple of months.
 	-- Ronald Harsh has been appointed special Chancelor and has yet to yield the power. 
+	-- You reunite with eachother during the height of All Spirits Festival.
 
+
+**** All Spirits Festival
+	-- Last full moon that falls on xx for the year.
+	-- Celebration of all spirits, good and evil.
+	-- Spirits are known to visit the population during this time.
+	-- Particularly popular this year due to actual devils and vampires in town.
+	-- Citizens dress and spirits (devils, demons, vampires, ghosts.)
+	-- Slavers use this event in attempts to assassinate the group.
+	-- A ghost (Henryetta Mason) who was assinated by the slavers wants Horros Screamskull killed.  Will actively kill assassins and slavers.
 
 
 **** Church of the Light
