@@ -1,0 +1,28 @@
+Good
+	Male
+		Gendry Hawthorne
+		Robert Redbeard
+		Dawson Brightside
+
+	Female
+		Jane Stormwind
+		Mary Emmery
+
+Bad
+	Male
+		Vincent Thaw
+		Dustin Wirewood
+		Jasper Crenshaw
+
+	Female
+		Veronica Bellows
+		Shae Underwood
+
+Either
+	Male
+		Melo Landry
+		Henry Young
+
+	Female
+		Janice Henson
+

@@ -119,13 +119,30 @@ ______________________________________________________________________________
 
 	-- Mary-Jane Blidge
 		((Incorrect choice))
-		~
+		((Young and easily malipulated.  Easily corrupted.))
+		~ 20 years old
+		~ Ran away from home because her parents were too strict.
+		~ Doesn't enjoy her work, but she enjoys the freedom.
+		~ Very agreeable.
+		~ Seems interested in any plan presented to her with little questioning.
 
 	-- Bouncing Becky
 		((Incorrect choice))
+		((Very airheaded.  Enjoys her profession but could be swayed by money. ))
+		~ 26 years old.
+		~ Open admits she enjoys her profession.
+		~ Care free.
+		~ Can be swayed by money.
 
 	-- Bubbles
 		((Correct Choice))
+		((Older, experienced.  Quiet and reluctant to talk about non "profession" talk.))
+		~ 32 years old.
+		~ straight to business type.
 
 	-- Alexsis Texas
 		((Incorrect Choice))
+		((Extremely experienced, has personal agenda.  Only cares about herself. Very smart.))
+		~ 35 years old.
+		~ Has two children. Doesn't want to talk about them.
+		~ Asks all the right questions, very intelligent.
