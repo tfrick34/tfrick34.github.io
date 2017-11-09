@@ -44,7 +44,7 @@ ______________________________________________________________________________
 
 	-- GETTING THERE.
 		~ Players can basically ask anyone where the slavers HQ is.
-			= Commoners will say "it's about that way.
+			= Commoners will say "it's about that way."
 			= Guard will give you an exact location.
 
 	-- Members:
