@@ -1,0 +1,73 @@
+**** Transition
+		-- Only a couple of days have past since last session.
+		-- The group is still in route to the Vampire
+
+(((TRIGGERS)))
+		-- If the group continues to travel towards the Vampire's Den, they come across a group of foragers. 
+				~ These foragers, Mary and Tom Umber (Brother and Sister) warn the group not to continue North. 
+				~ They explain that anyone who travels in that area does not return.  Been happening for years.
+				~ No one has heard from the people of Huntesville for a long time.
+				~ Also say that their town believes a vampire has taken residence there recently.
+
+**** Shadow lands (Huntsville)
+		-- The group happens upon Huntsville.
+		-- The group is welcomed at the Butcher (1) by Heager (Hey-ger)
+
+		1: The Butcher.
+			Heager Perkins
+			Door is locked.  Heager does not want anyone in.  This is wear they prepare their meals.
+			((CLUE)) Human remains in the basement.  Top floor is very bloody and there is no meat on display.
+
+		2: The Market.
+			Gale and Martha Perkins.
+			The shop is pretty barren.  Gale and Martha don't really know what they have nor the price of anything.  
+
+		3: The Inn.
+			Run by Gale Perkins.  
+			((CLUE)) No one is there and in each room you notice some items left behind from previous residents.
+
+		4: Perkins Farm 1.
+			Run by Clark and Tabetha Perkins. Children Mildred and Clark Jr
+			Grows wheat
+			((CLUE)) Has the sign "Valentine Farm"
+
+		5: Perkins Farm 2.
+			Run by Euriel and Fara Perkins. Children Hadrid, Nathan, and Andarial.
+			Grows Spices
+
+		6: Perkins Farm 3.
+			Run by Oberyn Perkins. (Old man, a little bit dismissive)
+			Grows Wheat
+
+		7: Perkins Manor.
+			Solomon Perkins lives here.
+			Very Busy, a little dismisive of the group.
+			((Cages in the basement with chains))
+
+		8: Gale's House.  ((CLUE)) Painting of another family in the main foyer.
+		9: Martha's House
+		10: Haeger's House
+		11: Romon's Kennel's house.
+
+		-- The town will attempt to get the group to stay the night.  During the night, they will be served supper by the Inn Keep.  Anyone who eats will be slept and wake up in the dungeon at the Manor.
+
+		-- Enemies: 
+			-- Solomon Perkins: Necromancer (Volo's guide page 217)
+			-- Haeger Perkins: Warlock of the Great Old One (Volo's guide page 220)
+			-- Romon Kennel: Blackguard (volo's guide page 211)
+
+**** Igeezy's Manor.
+	-- Walking in, there is a large statue in the foyer with an inscription at the bottom.
+		"This come-eth before the fall." -> Correct answer is "this"
+			~ On fail, the entire floor gives out and the group is dropped to a pit below.
+			~ On success, the doors in the foyer unlock.
+
+
+**** Free Harbor.
+	-- The outskirts of freeharbor are dirty, grungy, and run-down.  People live in un-kept, broken down houses or in makeshift tents.
+	-- Slavers walk free, openly doing as they please throughout town.
+	-- Thugs often cause trouble with the "outsiders"
+	-- Once the group has made enough noise, they are approached by Hros the Lifetaker (Champion, volo's page 212)
+	-- After the Lifetaker has been slain, a Knight and a Dragon Priest arrive in town.  Once they see the group, the dragon priest calls for Griledrog.
+	-- As soon as Griledrog is introduce, Maiddrynied comes to the aide of the party.
+
