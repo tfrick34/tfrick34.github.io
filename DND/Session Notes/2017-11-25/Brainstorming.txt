@@ -1,3 +1,8 @@
+- Add clue that ties Huntsville to the Slavers. make is easy to find but not too revealing.
+- Possibly add a slaver encounter in the Shadowlands. (coming south away from huntsville?)
+- mansoon got periapt
+
+_________________________________________________________________________
 **** Transition
 		-- Only a couple of days have past since last session.
 		-- The group is still in route to the Vampire
@@ -5,18 +10,22 @@
 (((TRIGGERS)))
 		-- If the group continues to travel towards the Vampire's Den, they come across a group of foragers. 
 				~ These foragers, Mary and Tom Umber (Brother and Sister) warn the group not to continue North. 
-				~ They explain that anyone who travels in that area does not return.  Been happening for years.
+				~ They explain that anyone who travels in that area does not return.  Been happening for years. ((USE SHADOWLANDS))
 				~ No one has heard from the people of Huntesville for a long time.
 				~ Also say that their town believes a vampire has taken residence there recently.
+		-- If the group continues into Shadowlands, they have an increased probability of random encounters.
 
 **** Shadow lands (Huntsville)
-		-- The group happens upon Huntsville.
-		-- The group is welcomed at the Butcher (1) by Heager (Hey-ger)
+		-- The group happens upon Huntsville. Read:
+			~ The town is quaint and welcoming. You see friendly faces working their fields and you can smell the sweet smell of onions cooking in preperation for dinner. Looking over the town, it is well-kept and clean.  The dirt roads are neatly lined with stone, fences are void of imperfections, and roofs have fresh thatch.
+		-- The group is welcomed at the Butcher (1) by Heager (Hey-ger) read:
+			~ Approaching you is a sturdy, well-built man.  The man is covered in blood, mostly on his apron, but his demeanor is welcoming.  Wiping his hands with a towel, he welcomes you to Huntsville.
+
 
 		1: The Butcher.
 			Heager Perkins
 			Door is locked.  Heager does not want anyone in.  This is wear they prepare their meals.
-			((CLUE)) Human remains in the basement.  Top floor is very bloody and there is no meat on display.
+			((CLUE)) Human remains in the basement (LOCKED).  Top floor is very bloody and there is no meat on display.
 
 		2: The Market.
 			Gale and Martha Perkins.
