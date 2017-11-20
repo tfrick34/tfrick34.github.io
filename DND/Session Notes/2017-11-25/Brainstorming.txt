@@ -1,11 +1,15 @@
 - Add clue that ties Huntsville to the Slavers. make is easy to find but not too revealing.
 - Possibly add a slaver encounter in the Shadowlands. (coming south away from huntsville?)
 - mansoon got periapt
+- BP got ring of protection
+- Create Igeezy's Manor
+- Come up with shadowlands random encounters
 
 _________________________________________________________________________
 **** Transition
 		-- Only a couple of days have past since last session.
-		-- The group is still in route to the Vampire
+		-- The group is still in route to the Vampire.
+		-- The group is running low on supplies.
 
 (((TRIGGERS)))
 		-- If the group continues to travel towards the Vampire's Den, they come across a group of foragers. 
@@ -23,33 +27,33 @@ _________________________________________________________________________
 
 
 		1: The Butcher.
-			Heager Perkins
+			Heager Dukat
 			Door is locked.  Heager does not want anyone in.  This is wear they prepare their meals.
 			((CLUE)) Human remains in the basement (LOCKED).  Top floor is very bloody and there is no meat on display.
 
 		2: The Market.
-			Gale and Martha Perkins.
+			Gale and Martha Meylikh.
 			The shop is pretty barren.  Gale and Martha don't really know what they have nor the price of anything.  
 
 		3: The Inn.
-			Run by Gale Perkins.  
+			Run by Gale Meylikh.  
 			((CLUE)) No one is there and in each room you notice some items left behind from previous residents.
 
-		4: Perkins Farm 1.
-			Run by Clark and Tabetha Perkins. Children Mildred and Clark Jr
+		4: Meylikh Farm 1.
+			Run by Clark and Tabetha Meylikh. Children Mildred and Clark Jr
 			Grows wheat
 			((CLUE)) Has the sign "Valentine Farm"
 
-		5: Perkins Farm 2.
-			Run by Euriel and Fara Perkins. Children Hadrid, Nathan, and Andarial.
+		5: Meylikh Farm 2.
+			Run by Euriel and Fara Meylikh. Children Hadrid, Nathan, and Andarial.
 			Grows Spices
 
-		6: Perkins Farm 3.
-			Run by Oberyn Perkins. (Old man, a little bit dismissive)
+		6: Meylikh Farm 3.
+			Run by Taewin Meylikh. (Old man, a little bit dismissive)
 			Grows Wheat
 
-		7: Perkins Manor.
-			Solomon Perkins lives here.
+		7: Meylikh Manor.
+			Solomon Meylikh lives here.
 			Very Busy, a little dismisive of the group.
 			((Cages in the basement with chains))
 
@@ -58,11 +62,14 @@ _________________________________________________________________________
 		10: Haeger's House
 		11: Romon's Kennel's house.
 
-		-- The town will attempt to get the group to stay the night.  During the night, they will be served supper by the Inn Keep.  Anyone who eats will be slept and wake up in the dungeon at the Manor.
+		((TRIGGERS))
+			-- The town will attempt to get the group to stay the night.  
+				~ During the night, they will be served supper by the Inn Keep.  Anyone who eats will be slept and wake up in the dungeon at the Manor.
+			-- If the team is caught doing anything questionable, they are confronted by Romon.
 
 		-- Enemies: 
-			-- Solomon Perkins: Necromancer (Volo's guide page 217)
-			-- Haeger Perkins: Warlock of the Great Old One (Volo's guide page 220)
+			-- Solomon Meylikh: Necromancer (Volo's guide page 217)
+			-- Haeger Dukat: Warlock of the Great Old One (Volo's guide page 220)
 			-- Romon Kennel: Blackguard (volo's guide page 211)
 
 **** Igeezy's Manor.
