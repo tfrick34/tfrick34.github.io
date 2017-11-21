@@ -77,7 +77,8 @@ _________________________________________________________________________
 		"This come-eth before the fall." -> Correct answer is "this"
 			~ On fail, the entire floor gives out and the group is dropped to a pit below.
 			~ On success, the doors in the foyer unlock.
-
+		((ADD WOLVES, BATS, WORGS, VISTANI?, RATS, GIANTS?, CULTISTS))
+		((COME UP WITH FLOOR PLAN AND CREATE MAP))
 
 **** Free Harbor.
 	-- The outskirts of freeharbor are dirty, grungy, and run-down.  People live in un-kept, broken down houses or in makeshift tents.
