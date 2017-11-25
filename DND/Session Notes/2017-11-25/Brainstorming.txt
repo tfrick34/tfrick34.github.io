@@ -1,8 +1,5 @@
-- Add clue that ties Huntsville to the Slavers. make is easy to find but not too revealing.
-- Possibly add a slaver encounter in the Shadowlands. (coming south away from huntsville?)
 - mansoon got periapt
 - BP got ring of protection
-- Create Igeezy's Manor
 - Come up with shadowlands random encounters
 
 _________________________________________________________________________
@@ -17,6 +14,7 @@ _________________________________________________________________________
 				~ They explain that anyone who travels in that area does not return.  Been happening for years. ((USE SHADOWLANDS))
 				~ No one has heard from the people of Huntesville for a long time.
 				~ Also say that their town believes a vampire has taken residence there recently.
+		-- If the group gets near the town of Huntsville, they see three slavers heading south with an empty caged cart.
 		-- If the group continues into Shadowlands, they have an increased probability of random encounters.
 
 **** Shadow lands (Huntsville)
@@ -56,6 +54,12 @@ _________________________________________________________________________
 			Solomon Meylikh lives here.
 			Very Busy, a little dismisive of the group.
 			((Cages in the basement with chains))
+			Loot: 
+				5 Bloodstone
+				1200 Copper
+				12000 Silver
+				3600 Gold
+				180 Platinum
 
 		8: Gale's House.  ((CLUE)) Painting of another family in the main foyer.
 		9: Martha's House
@@ -73,18 +77,51 @@ _________________________________________________________________________
 			-- Romon Kennel: Blackguard (volo's guide page 211)
 
 **** Igeezy's Manor.
-	-- Walking in, there is a large statue in the foyer with an inscription at the bottom.
+	((The only entrance is front door to the R0 - Entrance Hall))
+
+	-- ((R0)) Walking in, there is a large statue in the foyer with an inscription at the bottom.
+		~ The statue is a large, overpowering presense. It is an older man with his right hand pertruding forward holding a longsword faceing down over the inscription.
 		"This come-eth before the fall." -> Correct answer is "this"
 			~ On fail, the entire floor gives out and the group is dropped to a pit below.
 			~ On success, the doors in the foyer unlock.
-		((ADD WOLVES, BATS, WORGS, VISTANI?, RATS, GIANTS?, CULTISTS))
-		((COME UP WITH FLOOR PLAN AND CREATE MAP))
+
+	-- ((R1)) Library. 
+		~ If the group actively searches, there is a Manual of Stone Golem on the table in the center of the Library.
+
+	-- ((R2)) Washroom. Nothing of note.
+	-- ((R3)) Servants Quarters.  Nothing of note. Some gold in the footlockers.
+	-- ((R4)) Kitchen.  Nothing of note.
+	-- ((R5)) Dining Hall.  Art objects. Silver forks and knives with Jeweled bronze chalices.
+	-- ((R6)) Guest Room 1 - Art objects. Small gold idol, box of turquoise animal figurines.
+
+	-- ((R7)) Masters Quarters.
+			~ Northwest side of the room is a personal study.  There is an obsidian statuette with gold fittings.
+			~ In the center is the master bed.  To the left there is tightly locked iron chest.
+				((ONLY OPEN AFTER THE TEAM DEFEATS THE VAMPIRE))
+				Inside is:
+					Holy Avenger (DM Guide P174)
+					Ring of Lightning Strikes (Requires Attunement)
+						+1 to Unarmed attacks. Everytime you land an attack, you get 1 charge (max ten). After 10 charges, you may use Lightning Bolt as an action on your turn.  After an hour without activity, the users takes (Charges)d4 Lightning Damage.
+					13,000gp
+					1,600 PP
+
+	-- ((R8)) Guest Room 2 - Art objects. Old masterpiece Painting
+
+	-- ((B0)) Basement.
+		((IF ANYONE LIGHTS THE ROOM, THE GARGOYLES WILL ATTACK))
+		~ Read: The room is dark.  What you can see is dusty and there is a distinct earthy smell.  You get the sense this place is relatively undisturbed. The north side of the room has a large iron-framed wooden door.  The doorway is intriquetely decorated with large stone carvings.  On each side of the door, two gargoyles are pertruding from the wall in an aggresive stance, claws swiping inwards towards the threshold. The east and west side of the basement have smaller wooden doors. You notice torches lining the walls.
+
+	-- ((B1)) West Crypt.
+		There are two stone coffins in the center of the room.
+		There is a large lever on the far west side of the room with two stone gargoyles pertruding from the wall.
+
+	-- ((B2)) Igeezy's crypt.
+
+	-- ((B3)) East Crypt.
+		There are two stone coffins in the center of the room.
+		There is a large lever on the far west side of the room with two stone gargoyles pertruding from the wall.
+
 
 **** Free Harbor.
-	-- The outskirts of freeharbor are dirty, grungy, and run-down.  People live in un-kept, broken down houses or in makeshift tents.
-	-- Slavers walk free, openly doing as they please throughout town.
-	-- Thugs often cause trouble with the "outsiders"
-	-- Once the group has made enough noise, they are approached by Hros the Lifetaker (Champion, volo's page 212)
-	-- After the Lifetaker has been slain, a Knight and a Dragon Priest arrive in town.  Once they see the group, the dragon priest calls for Griledrog.
-	-- As soon as Griledrog is introduce, Maiddrynied comes to the aide of the party.
+	-- The team is repeatedly attacked by thugs, slavers, assassins, etc.  The farther they make it into town the strong and more frequent they become.
 
