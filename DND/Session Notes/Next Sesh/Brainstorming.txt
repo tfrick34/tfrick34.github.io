@@ -1,0 +1,22 @@
+**** TRANSITION
+		
+		Read:
+
+			A couple days have passed and the team is still camping out at the manner. You notice that the sun shines ever so slightly brighter in the overgrown forest each day.  You see less shadowy figures looming in the shadows and you get the sense that the "shadowlands" are losing their "shadow."  Making it... just.. "lands."
+
+		-- The team has a less of a chance to run into random encounters.
+
+
+
+
+**** RETURNING TO HEARTLAND
+
+		Read:
+
+			The majority of the journey back to Heartland City goes by virtually uninterupted.  Eventually, you make it back to the ((ROAD BETWEEN HEARTLAND AND FREE HARBOR)). You notice an increased frequency in slaver groups that are only going west towards Free Harbor.  One such group of slavers, battered and injured, are hauling an equally injured cargo. You decide to stop.
+
+			-- Slavers are injured from the Dragon attack on Heartland.
+			-- Slavers openly give information due to pure shock of the happenings of the last couple of days.
+			-- The Slavers know:
+				~~ Ronald Harshe was assassinated by a dagger wielding assassin during a speech.
+				~~ The next day an Ancient ((BLACK)) Dragon attacked the city, 
