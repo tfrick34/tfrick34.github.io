@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 		Read:
 
-			The majority of the journey back to Heartland City goes by virtually uninterupted.  Eventually, you make it back to the ((ROAD BETWEEN HEARTLAND AND FREE HARBOR)). You notice an increased frequency in slaver groups that are only going west towards Free Harbor.  One such group of slavers, battered and injured, are hauling an equally injured cargo. You decide to stop.
+			The majority of the journey back to Heartland City goes by virtually uninterupted.  Eventually, you make it back to the ((ROAD BETWEEN HEARTLAND AND FREE HARBOR)). You notice an increased frequency in slaver caravans.  Oddly enough, you realize that they are only going west towards Free Harbor.  One such group of slavers, battered and injured, are hauling an equally injured cargo. You decide to stop.
 
 			-- Slavers are injured from the Dragon attack on Heartland.
 			-- Slavers openly give information due to pure shock of the happenings of the last couple of days.
@@ -51,8 +51,10 @@ ________________________________________________________________________________
 
 			Reaching the outskirts of Heartland you immediately notice it to be more bustling than you remember. Looking around you see rich amongst the poor and Guard amongst the Slavers. Most noticebly, however you notice the chaos of it all.
 
-			-- There are small camps setup for injured. Most injuries are ((BLACK DRAGON DAMAGE)) related.
+			-- There are small camps setup for injured. Most injuries are acid related.
 			-- Inside the city, there is severe structural damage everywhere.
+
+			-- The team re-meets Mathew (the poor traveling merchant)
 
 
 
