@@ -1,5 +1,5 @@
-the group sees a hill giant and decide to kill him
-colin starts to fill out the map with wisdom
+the group sees a hill giant and decide to kill him (1,800)
+colin starts to fill out the map with wisdom (1k)
 
 the group kills a hill giant
 
@@ -9,14 +9,14 @@ the group enters the city, goes to the church, researches the dragons
 
 the group goes to the scorch page and meets mathew, tells them to meet the dragonclaw
 
-kills 14 thugs
+kills 14 thugs (2800)
 
-kills two slavers
+kills two slavers (5800)
 
-kills horros
+kills horros (5,900)
 
 
-peter griffon is killed by a caught trident by BP
+peter griffon is killed by a caught trident by BP (3200)
 
 
 
@@ -27,3 +27,5 @@ the group meets the Dragonclaw and fails to impress him.  Ultros tells him off a
 the leave off at the ultros' keep.
 
 2 6 hammer
+
+(3417 pp)
